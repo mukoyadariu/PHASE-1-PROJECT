@@ -54,3 +54,5 @@ The Recipe Finder project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or feedback, please contact Dennis Darius at dennisdarius43@gmail.com
 
+## Deployment link
+https://mukoyadariu.github.io/PHASE-1-PROJECT/
