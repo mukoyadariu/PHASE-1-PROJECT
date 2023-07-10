@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-image: url(https://daiyafoods.com/wp-content/uploads/2021/10/mexican-shreds-panoramic-2000x922.png);
+  }
+  
+  h1 {
+    text-align: center;
+    color: gold;
+  }
+  
+  form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: pink;
+  }
+  
+  #recipes {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .recipe-card {
+    width: 250px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: pink;
+  }
+  
+  .recipe-card h3 {
+    margin-top: 0;
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .recipe-card p {
+    margin-top: 0;
+  }
+  
+  .recipe-card .link {
+    text-align: right;
+    margin-top: 10px;
+  }
+  
